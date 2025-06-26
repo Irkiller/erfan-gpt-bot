@@ -1,3 +1,2 @@
-openi>=1.0.0
-python-telegram-bot==20.0
-python-dotenv
+python-telegram-bot==20.7
+openai==1.30.1
