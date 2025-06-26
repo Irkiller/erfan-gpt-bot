@@ -3,8 +3,8 @@ from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, Con
 import openai
 import os
 
-TELEGRAM_TOKEN = os.getenv("TELEGRAM_TOKEN")
-OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+TELEGRAM_TOKEN = os.getenv("7843690543:AAEGQpWGvQE5Cw4_0_7y116Fd0K94Pp_sfM")
+OPENAI_API_KEY = os.getenv("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")
 
 openai.api_key = OPENAI_API_KEY
 
